@@ -111,7 +111,7 @@ def broadcast(text):
     text:       (string)  메시지 내용
     """
     for chat in get_enabled_chats():
-        send_msg(chat.key.string_id(), text);
+        send_msg(chat.key.string_id(), text)
 
 # 봇 명령 처리 함수들
 def cmd_start(chat_id):
