@@ -19,7 +19,7 @@ import logging
 import re
 
 # 봇 토큰, 봇 API 주소
-TOKEN = '137007641:AAFVXObeODnKcyDrbcBfEAHzYFGhcFeVlVk'
+TOKEN = '373342683:AAHV8oJ8xV7XuEyfbh_02p-E-jemeGm-oNw'
 BASE_URL = 'https://api.telegram.org/bot' + TOKEN + '/'
 
 # 봇이 응답할 명령어
